@@ -151,6 +151,8 @@ class person:
 
 person()
 
+#magic method are special type of methods---> __name__
+#
 
 #pass by reference
 class person:
