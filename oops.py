@@ -5,7 +5,7 @@ import os
 
 
 class Atm:
-    # Constructor
+    # Constructor ---it is a special function ,we do not need to call it for its execution
     def __init__(self):
         self.pin = ''
         self.balance = 0
