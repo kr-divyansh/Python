@@ -1,7 +1,7 @@
  #python oops
 #class is a blueprint for creating objects ,,,object is an instance of a class 
 #object name = classname()--> object syntax
-import os
+#import os
 
 
 class Atm:
